@@ -1,19 +1,21 @@
+package aulas;
+
 public class variaveis {
     public static void main(String[] args) {
         System.out.println("Hello World!"); //equivale ao console.log
 
-        //variaveis do JAVA
+        //aulas.variaveis do JAVA
         //fortemente tipado e estaticamente tipado
         int idade = 20; // inteiro (até 2 bilhoes)
         double salario = 4500.99; //dupla precisao
         float nota = 7.5f; // sufixo para float
         long populacaoTerra = 7_900_000_000l; //para numero muito grandes bilhoes e bilhoes
         boolean tarefaConcluida = false;
-        int i = 1, j = 0, k = 1000; // multiplas variaveis
+        int i = 1, j = 0, k = 1000; // multiplas aulas.variaveis
         String nomecompleto = "Leonardo Pereira Pires"; //sempre aspas duplas
 
         int teste = 10;
-        teste = 9; // reatribuição de variaveis
+        teste = 9; // reatribuição de aulas.variaveis
 
         final int teste2 = 200; // impossivel mudar o valor
         // teste2 = 1000

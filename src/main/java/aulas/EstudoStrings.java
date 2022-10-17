@@ -1,3 +1,5 @@
+package aulas;
+
 import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Arrays;
 import java.util.Scanner;
