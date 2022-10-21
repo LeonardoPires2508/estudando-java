@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.tamagotchi;
 
 public class Comida {
     private String nome;
